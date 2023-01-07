@@ -1,0 +1,9 @@
+body{
+    background-color: #011627;
+    color: silver;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 20px;
+    border: 50px solid #011627; 
+    padding: 200px;
+}

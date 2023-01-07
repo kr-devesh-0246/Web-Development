@@ -1,0 +1,23 @@
+body{
+    font-family: "Calibri";
+    font-size: 20px;
+}
+
+.container{
+    
+    /* padding: 240px; */
+}
+
+.jumbotron{
+    background-color: rgba(180, 177, 177, 0.653);
+    padding: 70px;
+    
+}
+
+.sign-in-class{
+    text-align: left;
+}
+
+.navbar-navbar-expand-lg bg-body-tertiary{
+    background-color: navy;
+}

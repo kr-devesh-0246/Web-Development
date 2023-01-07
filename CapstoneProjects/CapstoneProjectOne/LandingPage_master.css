@@ -1,0 +1,45 @@
+body{
+    background-color: #011627;
+    color: silver;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 20px;
+    border: 50px solid #259f92; 
+    padding: 200px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+h1{
+    font-size: 60px;
+    color: #b8a641;
+}
+
+h2{
+    color: #b8a641;
+}
+
+#one{
+    height: 30px;
+    width: 190px;
+    background-color: silver;
+}
+
+#two{
+    height: 30px;
+    width: 190px;
+    background-color: silver;
+}
+
+#three{
+    height: 30px;
+    width: 190px;
+    background-color: silver;
+}
+
+#submit{
+    background-color: rgb(222, 145, 14);
+    height: 59px;
+    width: 150px;
+    border-radius: 12px;
+}
