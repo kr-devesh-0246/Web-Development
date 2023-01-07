@@ -1,0 +1,16 @@
+/* This is a comment */
+h1{
+    color: rgb(232, 93, 93);
+}
+
+li{
+    color: green;
+}
+
+p{
+    color: #0895a8;
+}
+
+h4{
+    color:rgba(232, 93, 93, 0.5)
+}

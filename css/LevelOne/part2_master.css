@@ -1,0 +1,19 @@
+body{
+    /* background-color: beige; */
+    background: url(https://media.istockphoto.com/id/1360554439/photo/maldives-tropical-island.jpg?b=1&s=170667a&w=0&k=20&c=AWY54kmUT9IcXJZdSdxxm5JUFK_3fxpmMbWQ6IhEG50=)
+    
+}
+div{
+    background-color: blueviolet;
+    border-color: blue;
+    border-width: 1px;
+    border-style: dotted; 
+}
+
+p{
+    color: brown;
+}
+
+span{
+    background: #000;
+}

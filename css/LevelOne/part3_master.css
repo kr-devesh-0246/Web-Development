@@ -1,0 +1,16 @@
+body{
+    background: rgb(201, 170, 170);
+}
+.firstdiv{
+    background-color: aqua;
+}
+.seconddiv{
+    background-color: blue;
+}
+#p3{
+    background-color: yellowgreen
+    text-decoration: line-through;
+}
+h3+ul{
+    border: 4px dotted red;
+}

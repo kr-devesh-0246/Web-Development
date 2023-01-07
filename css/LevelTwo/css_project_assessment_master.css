@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.art{
+    margin: auto;
+}
+
+td{
+    background-color: black;
+    width: 150px;
+    height: 300px;
+    /* making the cell spacing proper */
+    border: 6px solid white;
+}
+
+#navy{
+    background-color: #011627;
+    width: 150px;
+}
+#red{
+    background-color: #ff0022;
+    width: 150px;
+}
+#aqua{
+    background-color: #41EAD4;
+    width: 150px;
+}
+#white{
+    background-color: #3a751c;
+    width: 150px;
+}
+#pink{
+    background-color: #B91372;
+    width: 150px;
+}
